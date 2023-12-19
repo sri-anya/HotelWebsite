@@ -1,8 +1,8 @@
-# <HOTEL TAJ HOMEPAGE COPY>
+# HOTEL TAJ HOMEPAGE COPY
 ## Description
 The project is a Front end clone of major portions of Home Page of [Taj Hotel](https://www.tajhotels.com/en-in/) website. The goal of building this project is to learn and practice Bootstrap and CSS. 
 
-## Table of Contents (Optional)
+## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
